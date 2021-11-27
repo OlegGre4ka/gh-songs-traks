@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/songs-traks/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/songs-traks/static/js/main.455e41ea.chunk.js",
+    "main.js.map": "/songs-traks/static/js/main.455e41ea.chunk.js.map",
+    "runtime-main.js": "/songs-traks/static/js/runtime-main.a2a826b3.js",
+    "runtime-main.js.map": "/songs-traks/static/js/runtime-main.a2a826b3.js.map",
+    "static/js/2.e630c359.chunk.js": "/songs-traks/static/js/2.e630c359.chunk.js",
+    "static/js/2.e630c359.chunk.js.map": "/songs-traks/static/js/2.e630c359.chunk.js.map",
+    "static/js/3.86104b93.chunk.js": "/songs-traks/static/js/3.86104b93.chunk.js",
+    "static/js/3.86104b93.chunk.js.map": "/songs-traks/static/js/3.86104b93.chunk.js.map",
+    "index.html": "/songs-traks/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/songs-traks/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.e630c359.chunk.js.LICENSE.txt": "/songs-traks/static/js/2.e630c359.chunk.js.LICENSE.txt",
+    "static/media/BirdSongs.933b113c.mp3": "/songs-traks/static/media/BirdSongs.933b113c.mp3",
+    "static/media/Night.d8bceefe.mp3": "/songs-traks/static/media/Night.d8bceefe.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2a826b3.js",
+    "static/js/2.e630c359.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.455e41ea.chunk.js"
+  ]
+}
